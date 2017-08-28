@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Drogaria
 {
-    class Class4
+    class Pagamento
     {
+        Double valor;
+        String formaPagamento;
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Drogaria
 {
-    class Class1
+    class Estoque
     {
+        List<Medicamento> lista = new List<Medicamento>();
+        Medicamento m1 = new Medicamento();
+        int quantidade;
     }
 }

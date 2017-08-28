@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace Drogaria
 {
-    class Class3
+    class Usuario
     {
+        int id;
+        string nome, endereco, email;
+        byte receita;
+
+        void consultaMedicamento()
+        {
+            Console.WriteLine();
+        }
+        void comprarMedicamento()
+        {
+
+        }
+        void efetuaPagamento()
+        {
+
+        }
     }
 }

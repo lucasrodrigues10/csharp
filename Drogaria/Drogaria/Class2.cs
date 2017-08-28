@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Drogaria
 {
-    class Class2
+    class Medicamento
     {
+        int id, quantidade;
+        string nome, bula;
+        byte receitaUsuario;
     }
 }

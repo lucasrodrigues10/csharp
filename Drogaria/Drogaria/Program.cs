@@ -8,6 +8,12 @@ namespace Drogaria
 {
     class Drogaria
     {
+        int id;
+        string nome;
+        public void enviaMedicamento()
+        {
+
+        }
         static void Main(string[] args)
         {
         }

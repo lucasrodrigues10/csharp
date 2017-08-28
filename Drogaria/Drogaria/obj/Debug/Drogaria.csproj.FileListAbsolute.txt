@@ -1,1 +1,6 @@
 c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\bin\Debug\Drogaria.exe.config
+c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\obj\Debug\Drogaria.csprojResolveAssemblyReference.cache
+c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\bin\Debug\Drogaria.exe
+c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\bin\Debug\Drogaria.pdb
+c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\obj\Debug\Drogaria.exe
+c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\obj\Debug\Drogaria.pdb
