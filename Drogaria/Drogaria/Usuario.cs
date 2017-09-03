@@ -9,8 +9,8 @@ namespace Drogaria
     class Usuario
     {
         int id;
-        string nome, endereco, email;
-        byte receita;
+        String nome, endereco, email;
+        Byte receita;
 
         void consultaMedicamento()
         {

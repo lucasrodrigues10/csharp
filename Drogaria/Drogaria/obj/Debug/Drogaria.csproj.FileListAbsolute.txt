@@ -4,3 +4,10 @@ c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\bin\D
 c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\bin\Debug\Drogaria.pdb
 c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\obj\Debug\Drogaria.exe
 c:\users\professor\documents\visual studio 2015\Projects\Drogaria\Drogaria\obj\Debug\Drogaria.pdb
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\bin\Debug\Drogaria.exe.config
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\bin\Debug\Drogaria.exe
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\bin\Debug\Drogaria.pdb
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\obj\Debug\Drogaria.csprojResolveAssemblyReference.cache
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\obj\Debug\Drogaria.csproj.CoreCompileInputs.cache
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\obj\Debug\Drogaria.exe
+C:\Users\notebook\Documents\csharp\Drogaria\Drogaria\obj\Debug\Drogaria.pdb

@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Drogaria
 {
-    class Medicamento
-    {
-        int id, quantidade;
-        String nome, bula;
-        Byte receitaUsuario;
-    }
+	class HistoricoPagamento
+	{
+		int id;
+		List<String> compras = new List<String>();
+	}
 }
